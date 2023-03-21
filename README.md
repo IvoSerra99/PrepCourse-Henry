@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Repositorio creado para el Prep Course de Henry
+Este es un repositorio creado para aprender a clonar repositorios desde github a nuestro ordenador.
